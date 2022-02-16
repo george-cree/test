@@ -1,3 +1,5 @@
 Note1
 
 This is a note. It talks about [[notes]].
+
+This is an update!
